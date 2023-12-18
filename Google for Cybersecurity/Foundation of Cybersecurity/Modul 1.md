@@ -80,7 +80,7 @@
 
 **Answer:** **b. Computer workstations, c. Cloud servers, d. Network routers
 
-Elaboration: Attack surfaces can include any point where an unauthorized user can try to enter or extract data. Computer workstations (b), cloud servers (c), and network routers (d) are all potential points of vulnerability where an attacker might attempt to exploit weaknesses.
+**Elaboration:** Attack surfaces can include any point where an unauthorized user can try to enter or extract data. Computer workstations (b), cloud servers (c), and network routers (d) are all potential points of vulnerability where an attacker might attempt to exploit weaknesses.
 
 ## Question 8: Attack Vectors in Email Scenario
 Question: A project manager receives a suspicious email with a file attachment, which installs malicious software on their laptop. What are the attack vectors used?
@@ -92,7 +92,7 @@ Question: A project manager receives a suspicious email with a file attachment, 
 
 **Answer:** **a. The file attachment, c. The suspicious email**
 
-**Elaboration** In this scenario, the attack vectors include the file attachment (a), which was the direct means of delivering the malware, and the suspicious email itself (c), which was the method used to present the malicious attachment to the target.
+**Elaboration:** In this scenario, the attack vectors include the file attachment (a), which was the direct means of delivering the malware, and the suspicious email itself (c), which was the method used to present the malicious attachment to the target.
 
 ## Question 9: Attacker Mindset Reasons
 **Question** Why do security teams practice an attacker mindset? Select three answers.
@@ -103,7 +103,7 @@ Question: A project manager receives a suspicious email with a file attachment, 
 - d. To uncover vulnerabilities that should be monitored
 **Answer** a. To find insights into the best security controls to use, b. To identify attack vectors, d. To uncover vulnerabilities that should be monitored
 
-**Elaboration** Adopting an attacker mindset helps security teams to anticipate potential threats (b), uncover vulnerabilities (d), and gain insights into effective security controls (a). This proactive approach is essential for identifying and mitigating security risks before they can be exploited by actual attackers.
+**Elaboration:** Adopting an attacker mindset helps security teams to anticipate potential threats (b), uncover vulnerabilities (d), and gain insights into effective security controls (a). This proactive approach is essential for identifying and mitigating security risks before they can be exploited by actual attackers.
 
 ## Question 10: Evaluating App Security
 ## Question: As a security professional, you're evaluating the security of an educational app. What steps should you take using an attacker mindset? Select two answers.
@@ -114,7 +114,7 @@ Question: A project manager receives a suspicious email with a file attachment, 
 - d. Evaluate how the app handles user data.
 **Answer** b. Identify the types of users who will interact with the app, d. Evaluate how the app handles user data.
 
-**Elaboration** To evaluate the app's security, you should identify the types of users and their interaction patterns (b), which can highlight potential risk areas. Additionally, evaluating how the app handles user data (d) is crucial for ensuring data privacy and security, especially in educational environments where sensitive student information is involved.
+**Elaboration:** To evaluate the app's security, you should identify the types of users and their interaction patterns (b), which can highlight potential risk areas. Additionally, evaluating how the app handles user data (d) is crucial for ensuring data privacy and security, especially in educational environments where sensitive student information is involved.
 
 ---------------
 ### EDUCATION PURPOSE ONLY
