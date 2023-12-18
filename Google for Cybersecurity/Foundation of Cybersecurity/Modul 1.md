@@ -1,122 +1,110 @@
-## Question 1: Broken Access Controls
-**Question:** An application has broken access controls that fail to restrict any user from creating new accounts, allowing anyone to add new accounts with full admin privileges. This is an example of what?
+## Question 1: Purpose of Cybersecurity
+**Question:** Fill in the blank: The purpose of _____ is to protect networks, devices, people, and data from unauthorized access or criminal exploitation.
 
-- [X] a. A vulnerability
-- [ ] b. A security control
-- [ ] c. A threat
-- [ ] d. An exploit
+- [X] a. cybersecurity
+- [ ] b. business continuity
+- [ ] c. planning
+- [ ] d. change-management
 
-**Answer:** **a. A vulnerability**
+**Answer:** **a. cybersecurity**
 
-**Elaboration:** Broken access controls in an application represent a significant security vulnerability. This flaw allows unauthorized creation of accounts, potentially granting full admin privileges to anyone. This exposes the system to various security risks, as it undermines the integrity and confidentiality of the system, making it susceptible to malicious activities.
+**Elaboration:** Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes. Implementing effective cybersecurity measures is challenging because attackers are becoming more innovative.
 
-## Question 2: Security Strategy
-**Question:** What security strategy uses a layered approach to prevent attackers from gaining access to sensitive data?
+## Question 2: Security Audit
+**Question:** What occurs during a security audit?
 
-- [ ] a. Caesar's cipher
-- [ ] b. Triple DES (3DES)
-- [X] c. Defense in depth
-- [ ] d. Kerchoff’s principle
+- [ ] a. Analyzing the efficiency of an organization's internal network
+- [ ] b. Ethical hacking of an organization's internal network to identify vulnerabilities
+- [ ] c. Prioritizing tasks, processes, and procedures
+- [X] d. Review of an organization’s security records, activities, and other related documents
 
-**Answer:** **c. Defense in depth**
+**Answer:** **d. Review of an organization’s security records, activities, and other related documents**
 
-**Elaboration:** Defense in depth is a strategic approach that employs multiple layers of security controls and defenses throughout an information system. This method ensures that if one layer fails, additional layers continue to provide protection, making it more challenging for attackers to gain unauthorized access to sensitive data.
+**Elaboration:** A security audit involves a thorough examination and analysis of an organization’s information system security measures. It assesses the security of the system's physical configuration and environment, software, information handling processes, and user practices. The audit aims to ensure that the organization adheres to regulatory requirements, protects data, and efficiently manages and controls access to information.
 
-## Question 3: Firewall in Defense Model
-**Question:** An organization's firewall is configured to allow traffic only from authorized IP addresses. Which layer of the defense in depth model is the firewall associated with?
+## Question 3: External Threat
+**Question:** Someone outside of an organization attempts to gain access to its private information. What type of threat does this scenario describe?
 
-- [ ] a. Application
-- [X] b. Network
-- [ ] c. Data
-- [ ] d. Endpoint
+- [ ] a. Accidental
+- [ ] b. Internal
+- [X] c. External
+- [ ] d. Ethical
 
-**Answer:** **b. Network**
+**Answer:** **c. External**
 
-**Elaboration:** Firewalls, especially when configured to restrict traffic based on IP addresses, primarily function at the network layer of the defense in depth model. They are instrumental in creating a barrier between trusted and untrusted networks, controlling the incoming and outgoing network traffic based on predetermined security rules.
+**Elaboration:** External threats are attempts by individuals or groups outside an organization to illicitly access its information systems. These threats include cybercriminals, hackers, and other malicious entities that target organizational assets to steal, damage, or cause other harm. Unlike internal threats, which originate from within the organization, external threats are carried out by individuals with no authorized access to the company's network.
 
-## Question 4: Purpose of CVE® List
-**Question:** What is the main purpose of the CVE® list?
+## Question 4: Identity Theft
+**Question:** Fill in the blank: Identity theft is the act of stealing _____ to commit fraud while impersonating a victim.
 
-- [ ] a. To create a dictionary of threats to organizational assets that must be addressed
-- [ ] b. To provide organizations with a framework for managing cybersecurity risk
-- [X] c. To share a standard way of identifying and categorizing known vulnerabilities and exposures
-- [ ] d. To keep a record of the coding mistakes of major software developers
+- [ ] a. trade secrets
+- [X] b. personal information
+- [ ] c. business records
+- [ ] d. hardware
 
-**Answer:** **c. To share a standard way of identifying and categorizing known vulnerabilities and exposures**
+**Answer:** **b. personal information**
 
-**Elaboration:** The Common Vulnerabilities and Exposures (CVE®) list is a publicly available catalog of known security vulnerabilities and exposures. Its purpose is to provide a standardized method for identifying and categorizing these vulnerabilities, facilitating the sharing of data across various security tools and services.
+**Elaboration:** Identity theft involves stealing personal information like social security numbers, credit card numbers, or other personal identifiers, and then using this information to impersonate someone else. The motive is often to commit fraud, such as opening new credit lines, making purchases, or obtaining services fraudulently in the name of the victim.
 
-## Question 5: Preparing New Workstations
-**Question:** A security team is preparing new workstations for office installation. Which vulnerability management steps should they take? Select three answers.
+## Question 5: Benefits of Regulatory Compliance
+**Question:** What are some key benefits associated with an organization meeting regulatory compliance? Select two answers.
 
-- [ ] a. Install a suite of collaboration tools on each workstation.
-- [X] b. Consider who will be using each computer.
-- [X] c. Configure the company firewall to allow network access.
-- [X] d. Download the latest patches and updates for each system.
+- [X] a. Avoiding fines
+- [ ] b. Identifying trends
+- [ ] c. Recruiting employees
+- [X] d. Upholding ethical obligations
 
-**Answer:** **b. Consider who will be using each computer, c. configure the company firewall to allow network access and d. Download the latest patches and updates for each system, and one other option.**
+**Answer:** **a. Avoiding fines and d. Upholding ethical obligations**
 
-**Elaboration:** When preparing new workstations, it is crucial to consider the user's role and access needs (b),  configure the company firewall to allow network access (c) and ensure that each system is up-to-date with the latest security patches and updates (d). These steps are part of effective vulnerability management, aimed at reducing security risks in new systems.
+**Elaboration:** Meeting regulatory compliance helps organizations avoid legal penalties and fines that can arise from non-compliance with laws and regulations. It also ensures that the organization is upholding its ethical obligations towards stakeholders, including customers, employees, and partners, by maintaining the integrity and confidentiality of its operations and data.
 
-## Question 6: Vulnerability Assessment Steps
-**Question:** During a vulnerability assessment, a scanner identifies a vulnerable onsite server with an outdated operating system. What is the next step?
+## Question 6: Technical Skills Proficiencies
+**Question:** Which of the following proficiencies are examples of technical skills? Select two answers.
 
-- [ ] a. Disregard the outdated operating system because the device is operational.
-- [ ] b. Deactivate the server because its operating system is outdated.
-- [ ] c. Scan the millions of devices that connect to the server.
-- [X] d. Perform a risk assessment of the old operating system.
+- [X] a. Applying computer forensics
+- [X] b. Automating tasks with programming
+- [ ] c. Prioritizing collaboration
+- [ ] d. Communicating with employees
 
-**Answer:** **d. Perform a risk assessment of the old operating system.**
+**Answer:** **a. Applying computer forensics and b. Automating tasks with programming**
 
-**Elaboration:** When a vulnerability assessment identifies an outdated operating system, the appropriate next step is to perform a risk assessment (d). This involves evaluating the potential threats and impacts associated with the outdated OS, leading to informed decisions about necessary security measures or updates.
+**Elaboration:**  Technical skills in the context of cybersecurity include applying computer forensics – the practice of collecting, analyzing, and reporting on digital data in a way that is legally admissible. It can be used in the detection and prevention of crime. Automating tasks with programming is another technical skill, which involves using code to create scripts or software that can automate various tasks, increasing efficiency and accuracy.
 
-## Question 7: Types of Attack Surfaces
-**Question:** Which of the following are types of attack surfaces? Select three answers.
+## Question 7: Security Information and Event Tools
+**Question:** Fill in the blank: Security information and event _____ (SIEM) tools enable security professionals to identify and analyze threats, risks, and vulnerabilities.
 
-- [ ] a. Malicious software
-- [X] b. Computer workstations
-- [X] c. Cloud servers
-- [X] d. Network routers
+- [ ] a. mitigation
+- [X] b. management
+- [ ] c. maturity
+- [ ] d. monitoring
 
-**Answer:** **b. Computer workstations, c. Cloud servers, d. Network routers**
+**Answer:** **b. management**
 
-**Elaboration:** Attack surfaces can include any point where an unauthorized user can try to enter or extract data. Computer workstations (b), cloud servers (c), and network routers (d) are all potential points of vulnerability where an attacker might attempt to exploit weaknesses.
+**Elaboration:** Security Information and Event Management (SIEM) tools provide real-time analysis of security alerts generated by applications and network hardware. They enable security professionals to manage security information and event logs, providing insights into activities within their IT environment. This is crucial for detecting, understanding, and responding to security incidents and threats.
 
-## Question 8: Attack Vectors in Email Scenario
-**Question:** A project manager receives a suspicious email with a file attachment, which installs malicious software on their laptop. What are the attack vectors used?
+## Question 8: Computer Forensics Task
+**Question:** A security professional receives an alert about an unknown user accessing a system within their organization. They attempt to identify, analyze, and preserve the associated criminal evidence. What security task does this scenario describe?
 
-- [X] a. The file attachment
-- [ ] b. The malicious software
-- [X] c. The suspicious email
-- [ ] d. The infected workstation
+- [X] a. Computer forensics
+- [ ] b. Software upgrades
+- [ ] c. Programming with code
+- [ ] d. Resolving error messages
 
-**Answer:** **a. The file attachment, c. The suspicious email**
+**Answer:** **a. Computer forensics**
 
-**Elaboration:** In this scenario, the attack vectors include the file attachment (a), which was the direct means of delivering the malware, and the suspicious email itself (c), which was the method used to present the malicious attachment to the target.
+**Elaboration:** This scenario describes the task of computer forensics, which involves collecting, preserving, analyzing, and presenting data from computer systems in a way that is legally admissible. This process is critical in identifying and tracking unauthorized access or other illegal activities in digital environments.
 
-## Question 9: Attacker Mindset Reasons
-**Question** Why do security teams practice an attacker mindset? Select three answers.
+## Question 9: PII and SPII
+**Question** Which of the following statements accurately describe personally identifiable information (PII) and sensitive personally identifiable information (SPII)? Select all that apply.
 
-- [X] a. To find insights into the best security controls to use
-- [X] b. To identify attack vectors
-- [ ] c. To exploit flaws in an application's codebase
-- [X] d. To uncover vulnerabilities that should be monitored
+- [X] a. An example of PII is someone’s email address.
+- [X] b. The theft of SPII is often more damaging than the theft of PII.
+- [X] c. SPII is a type of PII that falls under stricter handling guidelines.
+- [ ] d. An example of SPII is someone’s last name. 
 
-**Answer:** **a. To find insights into the best security controls to use, b. To identify attack vectors, d. To uncover vulnerabilities that should be monitored**
+**Answer:** **a. An example of PII is someone’s email address, b. The theft of SPII is often more damaging than the theft of PII , c. SPII is a type of PII that falls under stricter handling guidelines**
 
-**Elaboration:** Adopting an attacker mindset helps security teams to anticipate potential threats (b), uncover vulnerabilities (d), and gain insights into effective security controls (a). This proactive approach is essential for identifying and mitigating security risks before they can be exploited by actual attackers.
-
-## Question 10: Evaluating App Security
-## Question: As a security professional, you're evaluating the security of an educational app. What steps should you take using an attacker mindset? Select two answers.
-
-- [ ] a. Ensure the app's login form works.
-- [X] b. Identify the types of users who will interact with the app.
-- [ ] c. Integrate the app with existing educational resources.
-- [X] d. Evaluate how the app handles user data.
-
-**Answer:** **b. Identify the types of users who will interact with the app, d. Evaluate how the app handles user data.**
-
-**Elaboration:** To evaluate the app's security, you should identify the types of users and their interaction patterns (b), which can highlight potential risk areas. Additionally, evaluating how the app handles user data (d) is crucial for ensuring data privacy and security, especially in educational environments where sensitive student information is involved.
+**Elaboration:** Personally Identifiable Information (PII) is any data that can be used to identify a specific individual. Email addresses, names, and phone numbers are examples. Sensitive PII (SPII) is information that, when disclosed, could result in harm to the individual. Examples include social security numbers or medical records. SPII requires more stringent protection due to the potential harm that may arise from its compromise.
 
 ---------------
 ### EDUCATION PURPOSE ONLY
