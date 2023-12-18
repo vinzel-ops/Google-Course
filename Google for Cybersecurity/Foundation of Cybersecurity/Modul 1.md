@@ -1,10 +1,10 @@
 ## Question 1: Broken Access Controls
 **Question:** An application has broken access controls that fail to restrict any user from creating new accounts, allowing anyone to add new accounts with full admin privileges. This is an example of what?
 
-- a. A vulnerability
-- b. A security control
-- c. A threat
-- d. An exploit
+- [X] a. A vulnerability
+- [ ] b. A security control
+- [ ] c. A threat
+- [ ] d. An exploit
 
 **Answer:** **a. A vulnerability**
 
@@ -13,10 +13,10 @@
 ## Question 2: Security Strategy
 **Question:** What security strategy uses a layered approach to prevent attackers from gaining access to sensitive data?
 
-- a. Caesar's cipher
-- b. Triple DES (3DES)
-- c. Defense in depth
-- d. Kerchoff’s principle
+- [ ] a. Caesar's cipher
+- [ ] b. Triple DES (3DES)
+- [X] c. Defense in depth
+- [ ] d. Kerchoff’s principle
 
 **Answer:** **c. Defense in depth**
 
@@ -25,10 +25,10 @@
 ## Question 3: Firewall in Defense Model
 **Question:** An organization's firewall is configured to allow traffic only from authorized IP addresses. Which layer of the defense in depth model is the firewall associated with?
 
-- a. Application
-- b. Network
-- c. Data
-- d. Endpoint
+- [ ] a. Application
+- [X] b. Network
+- [ ] c. Data
+- [ ] d. Endpoint
 
 **Answer:** **b. Network**
 
@@ -37,10 +37,10 @@
 ## Question 4: Purpose of CVE® List
 **Question:** What is the main purpose of the CVE® list?
 
-- a. To create a dictionary of threats to organizational assets that must be addressed
-- b. To provide organizations with a framework for managing cybersecurity risk
-- c. To share a standard way of identifying and categorizing known vulnerabilities and exposures
-- d. To keep a record of the coding mistakes of major software developers
+- [ ] a. To create a dictionary of threats to organizational assets that must be addressed
+- [ ] b. To provide organizations with a framework for managing cybersecurity risk
+- [X] c. To share a standard way of identifying and categorizing known vulnerabilities and exposures
+- [ ] d. To keep a record of the coding mistakes of major software developers
 
 **Answer:** **c. To share a standard way of identifying and categorizing known vulnerabilities and exposures**
 
@@ -49,10 +49,10 @@
 ## Question 5: Preparing New Workstations
 **Question:** A security team is preparing new workstations for office installation. Which vulnerability management steps should they take? Select three answers.
 
-- a. Install a suite of collaboration tools on each workstation.
-- b. Consider who will be using each computer.
-- c. Configure the company firewall to allow network access.
-- d. Download the latest patches and updates for each system.
+- [ ] a. Install a suite of collaboration tools on each workstation.
+- [X] b. Consider who will be using each computer.
+- [X] c. Configure the company firewall to allow network access.
+- [X] d. Download the latest patches and updates for each system.
 
 **Answer:** **b. Consider who will be using each computer, c. configure the company firewall to allow network access and d. Download the latest patches and updates for each system, and one other option.**
 
@@ -61,10 +61,10 @@
 ## Question 6: Vulnerability Assessment Steps
 **Question:** During a vulnerability assessment, a scanner identifies a vulnerable onsite server with an outdated operating system. What is the next step?
 
-- a. Disregard the outdated operating system because the device is operational.
-- b. Deactivate the server because its operating system is outdated.
-- c. Scan the millions of devices that connect to the server.
-- d. Perform a risk assessment of the old operating system.
+- [ ] a. Disregard the outdated operating system because the device is operational.
+- [ ] b. Deactivate the server because its operating system is outdated.
+- [ ] c. Scan the millions of devices that connect to the server.
+- [X] d. Perform a risk assessment of the old operating system.
 
 **Answer:** **d. Perform a risk assessment of the old operating system.**
 
@@ -73,10 +73,10 @@
 ## Question 7: Types of Attack Surfaces
 **Question:** Which of the following are types of attack surfaces? Select three answers.
 
-- a. Malicious software
-- b. Computer workstations
-- c. Cloud servers
-- d. Network routers
+- [ ] a. Malicious software
+- [X] b. Computer workstations
+- [X] c. Cloud servers
+- [X] d. Network routers
 
 **Answer:** **b. Computer workstations, c. Cloud servers, d. Network routers**
 
@@ -85,10 +85,10 @@
 ## Question 8: Attack Vectors in Email Scenario
 **Question:** A project manager receives a suspicious email with a file attachment, which installs malicious software on their laptop. What are the attack vectors used?
 
-- a. The file attachment
-- b. The malicious software
-- c. The suspicious email
-- d. The infected workstation
+- [X] a. The file attachment
+- [ ] b. The malicious software
+- [X] c. The suspicious email
+- [ ] d. The infected workstation
 
 **Answer:** **a. The file attachment, c. The suspicious email**
 
@@ -97,10 +97,10 @@
 ## Question 9: Attacker Mindset Reasons
 **Question** Why do security teams practice an attacker mindset? Select three answers.
 
-- a. To find insights into the best security controls to use
-- b. To identify attack vectors
-- c. To exploit flaws in an application's codebase
-- d. To uncover vulnerabilities that should be monitored
+- [X] a. To find insights into the best security controls to use
+- [X] b. To identify attack vectors
+- [ ] c. To exploit flaws in an application's codebase
+- [X] d. To uncover vulnerabilities that should be monitored
 
 **Answer:** **a. To find insights into the best security controls to use, b. To identify attack vectors, d. To uncover vulnerabilities that should be monitored**
 
@@ -109,10 +109,10 @@
 ## Question 10: Evaluating App Security
 ## Question: As a security professional, you're evaluating the security of an educational app. What steps should you take using an attacker mindset? Select two answers.
 
-- a. Ensure the app's login form works.
-- b. Identify the types of users who will interact with the app.
-- c. Integrate the app with existing educational resources.
-- d. Evaluate how the app handles user data.
+- [ ] a. Ensure the app's login form works.
+- [X] b. Identify the types of users who will interact with the app.
+- [ ] c. Integrate the app with existing educational resources.
+- [X] d. Evaluate how the app handles user data.
 
 **Answer:** **b. Identify the types of users who will interact with the app, d. Evaluate how the app handles user data.**
 
