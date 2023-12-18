@@ -83,7 +83,7 @@
 **Elaboration:** Attack surfaces can include any point where an unauthorized user can try to enter or extract data. Computer workstations (b), cloud servers (c), and network routers (d) are all potential points of vulnerability where an attacker might attempt to exploit weaknesses.
 
 ## Question 8: Attack Vectors in Email Scenario
-Question: A project manager receives a suspicious email with a file attachment, which installs malicious software on their laptop. What are the attack vectors used?
+**Question:** A project manager receives a suspicious email with a file attachment, which installs malicious software on their laptop. What are the attack vectors used?
 
 - a. The file attachment
 - b. The malicious software
@@ -101,6 +101,7 @@ Question: A project manager receives a suspicious email with a file attachment, 
 - b. To identify attack vectors
 - c. To exploit flaws in an application's codebase
 - d. To uncover vulnerabilities that should be monitored
+
 **Answer:** **a. To find insights into the best security controls to use, b. To identify attack vectors, d. To uncover vulnerabilities that should be monitored**
 
 **Elaboration:** Adopting an attacker mindset helps security teams to anticipate potential threats (b), uncover vulnerabilities (d), and gain insights into effective security controls (a). This proactive approach is essential for identifying and mitigating security risks before they can be exploited by actual attackers.
@@ -112,6 +113,7 @@ Question: A project manager receives a suspicious email with a file attachment, 
 - b. Identify the types of users who will interact with the app.
 - c. Integrate the app with existing educational resources.
 - d. Evaluate how the app handles user data.
+
 **Answer:** **b. Identify the types of users who will interact with the app, d. Evaluate how the app handles user data.**
 
 **Elaboration:** To evaluate the app's security, you should identify the types of users and their interaction patterns (b), which can highlight potential risk areas. Additionally, evaluating how the app handles user data (d) is crucial for ensuring data privacy and security, especially in educational environments where sensitive student information is involved.
