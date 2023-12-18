@@ -56,7 +56,7 @@
 
 **Answer:** **b. Consider who will be using each computer, c. configure the company firewall to allow network access and d. Download the latest patches and updates for each system, and one other option.**
 
-**Elaboration:** When preparing new workstations, it is crucial to consider the user's role and access needs (b), and ensure that each system is up-to-date with the latest security patches and updates (d). These steps are part of effective vulnerability management, aimed at reducing security risks in new systems.
+**Elaboration:** When preparing new workstations, it is crucial to consider the user's role and access needs (b),  configure the company firewall to allow network access (c) and ensure that each system is up-to-date with the latest security patches and updates (d). These steps are part of effective vulnerability management, aimed at reducing security risks in new systems.
 
 ## Question 6: Vulnerability Assessment Steps
 **Question:** During a vulnerability assessment, a scanner identifies a vulnerable onsite server with an outdated operating system. What is the next step?
