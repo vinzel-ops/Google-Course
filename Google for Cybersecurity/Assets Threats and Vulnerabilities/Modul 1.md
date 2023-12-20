@@ -116,7 +116,7 @@
 
 **Answer:** ** Tiers**
 
-**Elaboration:** The Tiers in the NIST Cybersecurity
+**Elaboration:** The Tiers in the NIST Cybersecurity Framework are used to measure the performance of a security plan. They provide context on how an organization views cybersecurity risk and the processes in place to manage that risk. Tiers range from Partial (Tier 1) to Adaptive (Tier 4), indicating an increasing degree of rigor and sophistication in cybersecurity risk management practices.
 
 ---------------
 ### EDUCATION PURPOSE ONLY
