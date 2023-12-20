@@ -93,7 +93,7 @@
 **Answer:** **Security ethics**
 
 **Elaboration:** This scenario illustrates the concept of security ethics. Ethical behavior in cybersecurity involves respecting the confidentiality of information and adhering to organizational policies and moral principles, even in situations where one could personally benefit from acting otherwise.
-+
+
 ## Question 9: Ethical Principle of Privacy Protection
 **Question**  Fill in the blank: The ethical principle of _____ involves safeguarding an organization’s human resources records that contain personal details about employees.
 
