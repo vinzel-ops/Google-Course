@@ -94,29 +94,29 @@
 
 **Elaboration:** This scenario illustrates the concept of security ethics. Ethical behavior in cybersecurity involves respecting the confidentiality of information and adhering to organizational policies and moral principles, even in situations where one could personally benefit from acting otherwise.
 +
-## Question 9: Managing Physical Assets
-**Question** Which domain involves keeping data secure by ensuring users follow established policies to control and manage physical assets?
+## Question 9: Ethical Principle of Privacy Protection
+**Question**  Fill in the blank: The ethical principle of _____ involves safeguarding an organization’s human resources records that contain personal details about employees.
 
-- [ ] a. Security assessment and testing
-- [ ] b. Communication and network security
-- [X] c. Identity and access management
-- [ ] d. Security and risk management
+- [ ] a. unlimited access
+- [ ] b. honesty
+- [ ] c. non-bias
+- [X] d. privacy protection
 
-**Answer:** **c. Identity and access management**
+**Answer:** **privacy protection**
 
-**Elaboration:** Identity and access management (IAM) involves ensuring that the right individuals have access to the right resources at the right times for the right reasons. This domain focuses on managing users and controlling access to physical and digital assets in accordance with established policies and procedures.
+**Elaboration:** The ethical principle of privacy protection involves ensuring the confidentiality and integrity of personal details about employees, especially those held in human resources records. It is a commitment to handling personal data responsibly and safeguarding it from unauthorized access or disclosure.
 
-## Question 10: Security Operations Tasks
-## Question: Which of the following tasks may be part of the security operations domain? Select all that apply.
+## Question 10: Ethical Principle in Compliance
+## Question:  Fill in the blank: The ethical principle of _____ involves adhering to compliance regulations.
 
-- [X] a. Conducting investigations
-- [ ] b. Using coding practices to create secure applications
-- [X] c. Implementing preventive measures
-- [X] d. Investigating an unknown device that has connected to an internal network
+- [X] a. laws
+- [ ] b. guidelines
+- [ ] c. restrictions
+- [ ] d. protections
 
-**Answer:** **a. Conducting investigations, c. Implementing preventive measures, and d. Investigating an unknown device that has connected to an internal network**
+**Answer:** **laws**
 
-**Elaboration:** The security operations domain involves tasks such as conducting investigations into security incidents, implementing preventive measures to mitigate risks, and investigating unknown devices that connect to internal networks to ensure they don't pose a threat to organizational security.
+**Elaboration:** Adhering to laws is a fundamental ethical principle in cybersecurity and business practices. It involves following legal regulations and compliance requirements, ensuring that the organization's operations and practices are in line with legal standards and ethical norms.
 
 ---------------
 ### EDUCATION PURPOSE ONLY
